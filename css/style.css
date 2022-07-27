@@ -1,0 +1,16 @@
+.padna-bg-color {
+  background-color: #feeae9;
+}
+.btn-color {
+  padding: 9px 25px;
+
+  width: 168px;
+  height: 52px;
+
+  background: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border-radius: 8px;
+  color: white;
+}
+.catagories img {
+  width: 150px;
+}
